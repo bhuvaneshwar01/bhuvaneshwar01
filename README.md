@@ -8,7 +8,7 @@ About Me:
 
 - 🔭 I’m currentyly studying B.E (CSE) 3rd year at College of Engineering,Guindy
 - 🌱 Exploring computer scie
-- 📫 Reach me via :  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-eshwaran-464a9b1b2/)
+- 📫 Reach me via :  [![Linkedin Badge](https://img.shields.io/badge/-bhuvanr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-eshwaran-464a9b1b2/)
 - ⚡ In my free time , i solve problems in leetcode, hackerrank or gfg platforms.
 
 ---
@@ -35,4 +35,4 @@ About Me:
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwar01)](https://github.com/bhuvaneshwar01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwar01&layout=compact&theme=vision-friendly-dark)](https://github.com/bhuvaneshwar01/github-readme-stats)
