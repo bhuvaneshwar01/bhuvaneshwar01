@@ -33,6 +33,6 @@ About Me:
 
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwar01&layout=compact&theme=vision-friendly-dark)](https://github.com/bhuvaneshwar01/github-readme-stats)
 
 
